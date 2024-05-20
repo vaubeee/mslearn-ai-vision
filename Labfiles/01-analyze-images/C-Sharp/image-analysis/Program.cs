@@ -10,7 +10,7 @@ using Microsoft.Extensions.Configuration;
 using Azure;
 
 // Import namespaces
-
+using Azure.AI.Vision.ImageAnalysis;
 namespace image_analysis
 {
     class Program
